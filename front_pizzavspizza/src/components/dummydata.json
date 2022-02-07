@@ -1,0 +1,17 @@
+[
+    {
+        "id":1,
+        "pizzeria": "Dodo Pizza",
+        "city": "Sangotedo"
+    },
+    {
+        "id":2,
+        "pizzeria": "Pizza Babequeue",
+        "city": "Ikeja"
+    },
+    {
+        "id":3,
+        "pizzeria": "Pizza Pepperoni",
+        "city": "Surulere"
+    }
+]
